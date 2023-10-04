@@ -8,11 +8,11 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Praga Inform Agency</title>
-        <meta property="og:title" content="Praga Inform Agency" />
+        <title>Honey Shop</title>
+        <meta property="og:title" content="Honey shop" />
       </Helmet>
       <a
-        href="https://superfeedstory.com/short/87839?stream_uuid=f62b5dcc-dbca-4be8-b4f4-7f4394e73af2&trek=1"
+        href="https://superfeedstory.com/short/70155?stream_uuid=10167c28-115d-4963-8af8-8983cac6c1c0&trek=1"
         target="_self"
         rel="noreferrer noopener"
         className="home-link"
